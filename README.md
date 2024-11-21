@@ -4,7 +4,7 @@
 
 ## Overview
 
-Sky Auto Music (Peppermint) is an improved version of the original Sky Auto Music. It offers the same convenient tools as the previous version, but with a more user-friendly experience, a redesigned user interface, and a few additional features. This version is designed to automate the process of playing songs in the game Sky: Children of the Light but much more comfortably.
+Sky Auto Music (Peppermint) is an improved version of the original Sky Auto Music. It offers the same convenient tools as the previous version, but with a more user-friendly experience, a redesigned user interface, and a few additional features. This version is designed to automate the process of playing songs in the game Sky: Children of the Light but much more comfortably and besides on running Windows, it also aims to add support for MacOS
 
 ## Usage
 
