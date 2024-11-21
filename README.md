@@ -1,4 +1,4 @@
-# Sky: CotL AutoPlayer (SkyAM Peppermint) ~ Coming Soon!
+Sky Auto Music (Peppermint) - Coming Soon!
 
 <img src="https://i.imgur.com/ECSHtVm.png" alt="Sky: CotL AutoPlayer Logo" width="200">
 
