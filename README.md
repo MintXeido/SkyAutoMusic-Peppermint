@@ -1,10 +1,10 @@
-# Sky: CotL AutoPlayer
+# Sky: CotL AutoPlayer (SkyAM Peppermint) ~ Coming Soon!
 
 <img src="https://i.imgur.com/ECSHtVm.png" alt="Sky: CotL AutoPlayer Logo" width="200">
 
 ## Overview
 
-Sky: CotL AutoPlayer is a convenient tool designed to automate the process of playing songs in the game "Sky: Children of the Light". Whether you're a solo player looking to enjoy some melodies while exploring the realms or a musician seeking to captivate your fellow Sky children, this autoplayer has got you covered.
+Sky Auto Music (Peppermint) is an improved version of the original Sky Auto Music. It offers the same convenient tools as the previous version, but with a more user-friendly experience, a redesigned user interface, and a few additional features. This version is designed to automate the process of playing songs in the game Sky: Children of the Light but much more comfortably.
 
 ## Usage
 
