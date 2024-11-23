@@ -9,7 +9,7 @@
 
 Sky Auto Music (Peppermint) is an improved version of the original Sky Auto Music. It offers the same convenient tools as the previous version, but with a more user-friendly experience, a redesigned user interface, multi-language support, and a few additional features. This version is designed to automate the process of playing songs in the game Sky: Children of the Light more comfortably.
 
-## Development limitations
+## Peppermint's Development limitations
 ### Sky is not available for Intel-based Macs therefore I can't research and develop further for macOS support.
 
 In addition to supporting Windows, SkyAM Peppermint aims to add support for macOS, but Unfortunately Sky: Children of the Light game is only limited to Apple Silicon Macs (M Chips), meaning that I have an Intel-based Mac and cannot do further research and development for macOS support, sorry :')
