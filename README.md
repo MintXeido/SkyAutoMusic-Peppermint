@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="https://i.imgur.com/ECSHtVm.png" alt="Sky: CotL AutoPlayer Logo" width="200">
+  <img src="https://i.imgur.com/I8yhV5s.png" alt="SkyAutoMusic (Peppermint) Logo" width="256" height="256">
 </p>
 
 ## Overview
