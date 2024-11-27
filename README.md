@@ -18,7 +18,7 @@ In addition to supporting Windows, SkyAM Peppermint aims to add support for macO
 
 Adding a song to the AutoPlayer:
 
-Video - https://www.youtube.com/watch?v=rTW6vJFRYAM
+Video - No video at the moment...
 
 Text Version:
 1. Go to https://sky-music.herokuapp.com/songLibrary.html and choose a song then click the save button.
@@ -30,12 +30,7 @@ Text Version:
 
 ## Demo
 
-[![Link to Demo Video](https://img.youtube.com/vi/VoSr77cdwOY/0.jpg)](https://www.youtube.com/watch?v=VoSr77cdwOY)
-
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions for improvements or would like to report a bug, please open an issue or submit a pull request.
+No Demo at the moment...
 
 ## License
 
