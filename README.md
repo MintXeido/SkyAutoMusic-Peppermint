@@ -18,6 +18,11 @@
 - A more user-friendly experience
 - A redesigned user interface
 - Multi-language support
+  - English (United States)
+  - Spanish (Spain)
+  - French (France)
+  - German (Germany)
+  - Portuguese (Portugal)
 - Additional features
 
 This version automates the process of playing songs in the game *Sky: Children of the Light* for a smoother, more enjoyable experience.
