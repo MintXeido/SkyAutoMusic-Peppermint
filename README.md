@@ -28,7 +28,7 @@ This version automates the process of playing songs in the game *Sky: Children o
 
 ### Why macOS support is limited
 
-Sky is currently unavailable for Intel-based Macs, which limits development for macOS. While Sky Auto Music (Peppermint) aims to support macOS in addition to Windows, the game only runs on Apple Silicon Macs (M-series chips). Unfortunately, as I work on an Intel-based Mac, I am unable to further research or develop macOS support. Thank you for your understanding!
+Sky is currently unavailable for Intel-based Macs, which limits development for macOS. While Sky Lush aims to support macOS in addition to Windows, the game only runs on Apple Silicon Macs (M-series chips). Unfortunately, as I work on an Intel-based Mac, I am unable to further research or develop macOS support. Thank you for your understanding!
 
 ---
 
@@ -44,7 +44,7 @@ Sky is currently unavailable for Intel-based Macs, which limits development for 
 3. Scroll down, copy the displayed text, and paste it into a `.txt` file.
 4. Launch *Sky: Children of the Light*.
 5. Open **Sky: CotL AutoPlayer**, select the song and playback speed, then click on the game window within 3 seconds of setting the speed.
-6. To stop playing, simply close the terminal.
+6. To stop playing, close the terminal.
 
 ---
 
