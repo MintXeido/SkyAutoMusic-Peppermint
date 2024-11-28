@@ -6,6 +6,12 @@
 
 ----------
 
+## <p align="center"> Sky Lush Crescendo (Public Beta) </p>
+
+<p align="center">The first version of Sky Lush is set to be released on Saturday, November 30, 2024.</p>
+
+----------
+
 ## Overview
 
 **Sky Auto Music (Peppermint)** is an improved version of the original **Sky Auto Music**. It retains the same convenient tools while introducing:
