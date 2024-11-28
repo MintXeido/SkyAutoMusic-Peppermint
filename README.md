@@ -17,7 +17,7 @@
 **Sky Auto Music (Peppermint)** is an improved version of the original **Sky Auto Music**. It retains the same convenient tools while introducing:
 - A more user-friendly experience
 - A redesigned user interface
-- Multi-language support
+- Multi-language support:
   - English (United States)
   - Spanish (Spain)
   - French (France)
