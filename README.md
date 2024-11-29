@@ -1,14 +1,12 @@
 <div align="center">
              <img src="https://i.imgur.com/I8yhV5s.png" alt="SkyAutoMusic (Peppermint) Logo" width="256" />
              <h1>Project Peppermint: Sky Lush</h1>
-            <b><i>The ultimate music automation tool for Sky: Children of the Light. (A fork of SkyAutoMusic)</i></b>
+            <b><i>The ultimate music automation tool for Sky: Children of the Light. ( A fork of SkyAutoMusic )</i></b>
 </div>
 
 ----------
 
-## <p align="center"> Sky Lush Crescendo (Public Beta) </p>
-
-#### <p align="center">❕The first version of Sky Lush is set to be released on Saturday, November 30, 2024.</p>
+## <p align="center"> Sky Lush Crescendo (Public Beta) <br>  <h5 align="center">First release on Saturday, November 30, 2024. </h5></p>
 
 <br>
 
@@ -17,7 +15,7 @@ Introducing Sky Lush Crescendo, the next evolution of the beloved Sky AutoMusic 
 ### 🎵 Advanced BPM Selection
 Feel the rhythm of Sky like never before. With enhanced BPM selection, Crescendo ensures your music seamlessly aligns with the flow of your gameplay, creating an immersive, harmonious experience for every moment.
 
-### ✨ A Freshly Redesigned Interface
+### ✨ A Newly Redesigned Interface
 Crescendo introduces a basic, understandable, intuitive interface, making setting up and enjoying automated music easier.
 
 ###### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
