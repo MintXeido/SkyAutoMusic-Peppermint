@@ -20,7 +20,7 @@ Crescendo introduces a basic, understandable, intuitive interface, making settin
 
 <hr>
 
-##### 🌐 Available in English (US)
+##### 🌐 Available only in English (US)
 ###### Currently, Crescendo supports English (US), with plans to expand to additional languages in future patches and updates.
 
 ----------
