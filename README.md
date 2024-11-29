@@ -6,7 +6,7 @@
 
 ----------
 
-## <p align="center"> Sky Lush Crescendo (Public Beta) <br>  <h5 align="center">First release on Saturday, November 30, 2024. </h5></p>
+## <p align="center"> Sky Lush Crescendo (Public Beta) <br> <h5 align="center">First release on Saturday, November 30, 2024. </h5></p>
 
 <br>
 
@@ -17,6 +17,8 @@ Feel the rhythm of Sky like never before. With enhanced BPM selection, Crescendo
 
 ### ✨ A Newly Redesigned Interface
 Crescendo introduces a basic, understandable, intuitive interface, making setting up and enjoying automated music easier.
+
+<br>
 
 <hr>
 
