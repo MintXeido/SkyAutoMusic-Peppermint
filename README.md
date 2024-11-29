@@ -6,7 +6,7 @@
 
 ----------
 
-## <p align="center"> Sky Lush Crescendo (Public Beta) <br> <h5 align="center">First release on Saturday, November 30, 2024. </h5></p>
+## <p align="center"> Sky Lush Crescendo (Public Beta) <br> <h5 align="center">First release on Sunday, December 1, 2024. </h5></p>
 
 <br>
 
