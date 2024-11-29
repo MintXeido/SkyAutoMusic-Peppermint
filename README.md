@@ -18,7 +18,7 @@ Feel the rhythm of Sky like never before. With enhanced BPM selection, Crescendo
 ### ✨ A Newly Redesigned Interface
 Crescendo introduces a basic, understandable, intuitive interface, making setting up and enjoying automated music easier.
 
-###### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### 🌐 Available in English (US)
 ###### Currently, Crescendo supports English (US), with plans to expand to additional languages in future patches and updates.
