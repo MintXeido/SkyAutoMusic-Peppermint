@@ -8,6 +8,8 @@
 
 ## <p align="center"> Sky Lush Crescendo (Public Beta) <br> <h5 align="center">First release on Sunday, December 8, 2024 (AST) </h5></p>
 
+<h6 align="center">❕ First release delayed due to some inconveniences</h6>
+
 <br>
 
 Introducing Sky Lush Crescendo, the next evolution of the beloved Sky AutoMusic project, designed to enhance your experience in Sky: Children of the Light. Building on the foundation of AutoMusic, Crescendo refines and reimagines music automation to perfectly accompany your adventures.
