@@ -1,6 +1,6 @@
 <div align="center">
              <img src="https://i.imgur.com/I8yhV5s.png" alt="SkyAutoMusic (Peppermint) Logo" width="256" />
-             <h1>Project Peppermint: Sky Lush</h1>
+             <h2>Project Peppermint: Sky Lush</h2>
             <b><i>The ultimate music automation tool for Sky: Children of the Light. ( A fork of SkyAutoMusic )</i></b>
 </div>
 
