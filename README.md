@@ -66,7 +66,7 @@ Sky is currently unavailable for Intel-based Macs, which limits development for 
 2. Navigate to the [Sky Music Sheet Displayer](https://sky-music.herokuapp.com/sheetDisplayer.html) and choose the saved song.
 3. Scroll down, copy the displayed text, and paste it into a `.txt` file.
 4. Launch *Sky: Children of the Light*.
-5. Open **Sky: CotL AutoPlayer**, select the song and playback speed, then click on the game window within 3 seconds of setting the speed.
+5. Open **Sky Lush**, select the song and playback speed, then click on the game window within 3 seconds of setting the speed.
 6. To stop playing, close the terminal.
 
 ---
