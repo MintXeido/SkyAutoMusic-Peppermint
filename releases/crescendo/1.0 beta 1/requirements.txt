@@ -1,0 +1,7 @@
+pillow==11.0.0
+psutil==6.1.0
+PyDirectInput==1.0.4
+PyGetWindow==0.0.9
+PyYAML==6.0.2
+requests==2.32.3
+pywin32==308
