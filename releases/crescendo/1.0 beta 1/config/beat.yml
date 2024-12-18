@@ -1,0 +1,4 @@
+default:
+  "min": 100
+  "max": 500
+  "def": 220

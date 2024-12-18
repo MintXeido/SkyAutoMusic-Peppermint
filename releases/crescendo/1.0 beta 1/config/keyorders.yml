@@ -1,0 +1,25 @@
+default:
+
+  # Top Row
+  # -------------------------------------------------------
+  - "y"   # <-- KeyOrder[0] - (EX) For instance... Key C1
+  - "u"   # <-- KeyOrder[1] - (EX) For instance... Key D1
+  - "i"   # <-- KeyOrder[2] - (EX) For instance... Key E1
+  - "o"   # <-- KeyOrder[3] - (EX) For instance... Key F1
+  - "p"   # <-- KeyOrder[4] - (EX) For instance... Key G1
+
+  # Middle Row
+  # -------------------------------------------------------
+  - "h"   # <-- KeyOrder[5] - (EX) For instance... Key A1
+  - "j"   # <-- KeyOrder[6] - (EX) For instance... Key B1
+  - "k"   # <-- KeyOrder[7] - (EX) For instance... Key C2
+  - "l"   # <-- KeyOrder[8] - (EX) For instance... Key D2
+  - ";"   # <-- KeyOrder[9] - (EX) For instance... Key E2
+
+  # Bottom Row
+  # -------------------------------------------------------
+  - "n"   # <-- KeyOrder[10] - (EX) For instance... Key F2
+  - "m"   # <-- KeyOrder[11] - (EX) For instance... Key G2
+  - ","   # <-- KeyOrder[12] - (EX) For instance... Key A2
+  - "."   # <-- KeyOrder[13] - (EX) For instance... Key B2
+  - "/"   # <-- KeyOrder[14] - (EX) For instance... Key C3

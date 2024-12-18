@@ -1,0 +1,31 @@
+installed:
+  - [
+    ["en", "English", null],
+    [
+      ["US", "United States", Null]
+    ]
+  ]
+  - [
+    ["es", "Español", null],
+    [
+      ["ES", "España", Null]
+    ]
+  ]
+  - [
+    ["fr", "Français", null],
+    [
+      ["FR", "France", Null]
+    ]
+  ]
+  - [
+    ["de", "Deutsch", null],
+    [
+      ["DE", "Deutschland", Null]
+    ]
+  ]
+  - [
+    ["pt", "Português", null],
+    [
+      ["PT", "Portugal", Null]
+    ]
+  ]

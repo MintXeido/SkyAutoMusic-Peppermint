@@ -1,0 +1,30 @@
+lang: null
+personal:
+  name: null
+  uuid: null
+script:
+  pid: 10216
+  state: 0
+sky:
+  steamgid: 2325290
+songProcess:
+  playing: false
+userinterface:
+  color:
+    default: white
+    presets:
+      dark:
+      - '#?'
+      - '#?'
+      - '#?'
+      white:
+      - '#5AC0FF'
+      - '#FFFFFF'
+      - '#C7E9FF'
+  font:
+    data:
+      family-name: Inter 28pt
+      size: 9
+    tar:
+    - inter
+    - Inter_28pt-Bold
