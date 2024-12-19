@@ -10,7 +10,7 @@
 
 <br>
 
-Introducing Sky Lush Crescendo, the next evolution of the beloved Sky AutoMusic project, designed to enhance your experience in Sky: Children of the Light. Building on the foundation of AutoMusic, Crescendo refines and reimagines music automation to perfectly accompany your adventures.
+Introducing Sky Lush Crescendo, the next evolution of the Sky AutoMusic project, designed to enhance your experience in Sky: Children of the Light. Building on the foundation of AutoMusic, Crescendo refines and reimagines music automation to perfectly accompany your adventures.
 
 ### 🎵 Advanced BPM Selection
 Feel the rhythm of Sky like never before. With enhanced BPM selection, Crescendo ensures your music seamlessly aligns with the flow of your gameplay, creating an immersive, harmonious experience for every moment.
