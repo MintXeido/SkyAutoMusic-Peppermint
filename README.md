@@ -1,5 +1,5 @@
 <div align="center">
-             <img src="https://i.imgur.com/I8yhV5s.png" alt="Sky Lush Logo" width="256" /><br>
+             <img src="https://i.imgur.com/I8yhV5s.png" alt="Sky Lush Logo" width="200" /><br>
              <h2>
                <img src="https://i.imgur.com/eyrbUP7.png" alt="SkyAutoMusic: Project Peppermint Logo" width="24" /> Project Peppermint: Sky Lush
              </h2>
