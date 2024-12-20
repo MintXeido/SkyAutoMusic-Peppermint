@@ -59,7 +59,7 @@ Sky is currently unavailable for Intel-based Macs, which limits development for 
 
 ## Usage
 
-### Adding a Song to the AutoPlayer
+### Adding a Song to Sky Lush
 
 **Video Guide:** *Not available at the moment...*
 
