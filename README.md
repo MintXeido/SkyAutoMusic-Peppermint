@@ -53,7 +53,7 @@ This version automates the process of playing songs in the game *Sky: Children o
 
 #### Why macOS support is limited
 
-Sky is currently unavailable for Intel-based Macs, which limits development for macOS. While Sky Lush aims to support macOS in addition to Windows, the game only runs on Apple Silicon Macs (M-series chips). Unfortunately, as I work on an Intel-based Mac, I am unable to further research or develop macOS support. Thank you for your understanding!
+Sky is currently unavailable for Intel-based Macs, which limits development for macOS. While Sky Lush aims to support macOS in addition to Windows, Sky only runs on Apple Silicon Macs (M-series chips). Unfortunately, as I work on an Intel-based Mac, I am unable to further research or develop macOS support. I appreciate your understanding!
 
 ---
 
