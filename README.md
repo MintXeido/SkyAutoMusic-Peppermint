@@ -8,6 +8,8 @@
 
 ----------
 
+<div align="center"><img src="https://i.imgur.com/c7DEc56.png" alt="Lush Crescendo Logo" width="70" /></div>
+
 ## <p align="center"> Sky Lush Crescendo (Public Beta) <br> <h5 align="center">Released on Tuesday, December 17, 2024 (AST) </h5></p>
 
 <br>
