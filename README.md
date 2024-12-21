@@ -26,7 +26,7 @@ Crescendo introduces a basic, understandable, intuitive interface, making settin
 
 <div align="center"><img src="https://i.imgur.com/ieV2ZvS.png" alt="Lush Crescendo Logo" width="1024" /></div>
 
-###### <p align="center">❕ Other details you see here may or may not be seen in the current latest release. </p>
+###### <p align="center">❕ Other details you see here may or may not be seen in the current latest release or may never be added. </p>
 
 <hr>
 
