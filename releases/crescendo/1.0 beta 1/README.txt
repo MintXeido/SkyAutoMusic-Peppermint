@@ -64,7 +64,7 @@ Release's Limitations and Disclaimer:
 Instructions:
 -------------
 
-1. Ensure you have the latest Python installed (Minimum version: 3.12.7) 
+1. Ensure you have the latest Python installed (Minimum version: 3.12.7 or 3.9) 
    on your system.
 
 2. Ensure you have Steam and Sky: Children of The Light installed on your system.
