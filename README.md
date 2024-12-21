@@ -22,7 +22,9 @@ Feel the rhythm of Sky like never before. With enhanced BPM selection, Crescendo
 ### ✨ A Newly Redesigned Interface
 Crescendo introduces a basic, understandable, intuitive interface, making setting up and enjoying automated music easier.
 
-<br>
+#### <p align="center"> Lush UI concept design (Currently in Crescendo Beta 1) </p>
+
+<div align="center"><img src="https://i.imgur.com/ieV2ZvS.png" alt="Lush Crescendo Logo" width="1024" /></div>
 
 <hr>
 
