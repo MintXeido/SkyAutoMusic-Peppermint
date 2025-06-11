@@ -1,7 +1,7 @@
 <div align="center">
              <img src="https://i.imgur.com/I8yhV5s.png" alt="Sky Lush Logo" width="200" /><br>
              <h2>
-               <img src="https://i.imgur.com/eyrbUP7.png" alt="SkyAutoMusic: Project Peppermint Logo" width="24" /> Project Peppermint: Sky Lush (Project On-hold)
+               <img src="https://i.imgur.com/eyrbUP7.png" alt="SkyAutoMusic: Project Peppermint Logo" width="24" /> Project Peppermint: Sky Lush (Project On-hold until further notice.)
              </h2>
             <b><i>The ultimate music automation tool for Sky: Children of the Light. ( A fork of SkyAutoMusic )</i></b>
 </div>
